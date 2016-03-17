@@ -1,0 +1,5 @@
+hsdiploma/
+__pycache__/
+*.pyc
+*.sqlite3
+
